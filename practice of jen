@@ -1,0 +1,7 @@
+let payment=true;
+let login=false;
+if (payment||login){
+console.log("doane");
+}else{
+console.log("make payment properly");
+}
